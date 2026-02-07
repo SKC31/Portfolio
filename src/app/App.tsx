@@ -1,15 +1,16 @@
-// Local asset imports
-import image1 from "./assets/8ca7471ae194b646b29a87d27903598685588c4b.png";
-import image2 from "./assets/66cbd02478c5adf879d76ec67da8db3fa1a2ded8.png";
-import image3 from "./assets/92a63a2120c74358abb072fb3f1390d235801906.png";
-import image4 from "./assets/93cac397aea9a6a25438b02306af3ae239504574.png";
-import image5 from "./assets/940b2e251208d3a1bfbe638fb6cf666c04b78256.png";
-import image6 from "./assets/996b590210eab293ada23e72b2b5ae14dd3354b6.png";
-import image7 from "./assets/02945d6621447d008462cccab0a0979894b5d483.png";
-import image8 from "./assets/690764a7ee5d0937c94a3a92cf943f386d68727f.png";
-import image9 from "./assets/a1b68a2eaa5398b5ea390a3a95a81a954c33f1ed.png";
-import image10 from "./assets/c1814ef4cb941765b4e7cf0b27a095dde9672ff.png";
-import image11 from "./assets/eff92a7281f8b1fb9f35763ce372aa00e3d87c4f.png";
+// Replace all Figma asset imports with local files
+import imgRectangle1 from "./assets/a1b68a2eaa5398b5ea390a3a95a81a954c33f1ed.png";
+import imgImages1 from "./assets/93cac397aea9a6a25438b02306af3ae239504574.png";
+import imgPngwingCom1 from "./assets/8ca7471ae194b646b29a87d27903598685588c4b.png";
+import imgPngwingCom51 from "./assets/eff92a7281f8b1fb9f35763ce372aa00e3d87c4f.png";
+import imgPngwingCom61 from "./assets/940b2e251208d3a1bfbe638fb6cf666c04b78256.png";
+import imgPngwingCom31 from "./assets/996b590210eab293ada23e72b2b5ae14dd3354b6.png";
+import img3DCharacterIllustrationOfFrontEndDeveloperFreePng1 from "./assets/c1814ef4cb941765b4e7cf0b27a095dde9672ff.png";
+import imgPngwingCom11 from "./assets/02945d6621447d008462cccab0a0979894b5d483.png";
+import imgPngwingCom81 from "./assets/92a63a2120c74358abb072fb3f1390d235801906.png";
+import imgPngwingCom121 from "./assets/66cbd02478c5adf879d76ec67da8db3fa1a2ded8.png";
+import imgPngwingCom141 from "./assets/690764a7ee5d0937c94a3a92cf943f386d68727f.png";
+
 
 
 export default function App() {
