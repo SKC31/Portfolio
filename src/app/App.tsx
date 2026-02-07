@@ -1,4 +1,3 @@
-// Replace all Figma asset imports with local files
 import imgRectangle1 from "./assets/a1b68a2eaa5398b5ea390a3a95a81a954c33f1ed.png";
 import imgImages1 from "./assets/93cac397aea9a6a25438b02306af3ae239504574.png";
 import imgPngwingCom1 from "./assets/8ca7471ae194b646b29a87d27903598685588c4b.png";
@@ -10,6 +9,7 @@ import imgPngwingCom11 from "./assets/02945d6621447d008462cccab0a0979894b5d483.p
 import imgPngwingCom81 from "./assets/92a63a2120c74358abb072fb3f1390d235801906.png";
 import imgPngwingCom121 from "./assets/66cbd02478c5adf879d76ec67da8db3fa1a2ded8.png";
 import imgPngwingCom141 from "./assets/690764a7ee5d0937c94a3a92cf943f386d68727f.png";
+
 
 
 
